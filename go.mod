@@ -1,4 +1,4 @@
-module bank_customer_config
+module github.com/siddhardhk24/bank_customer_config
 
 go 1.18
 

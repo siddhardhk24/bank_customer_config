@@ -1,12 +1,12 @@
 package config
 
 import (
-	"bank_customer_config/constants"
 	"context"
 	"fmt"
 	"log"
 	"time"
 
+	"github.com/siddhardhk24/bank_customer_config/constants"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
